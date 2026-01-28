@@ -1,0 +1,28 @@
+# LangChain Core
+langchain==0.3.7
+langchain-core==0.3.17
+langchain-community==0.3.7
+langchain-text-splitters==0.3.2
+
+# LangChain Integrations
+langchain-groq==0.2.0
+langchain-huggingface==0.1.0
+langchain-postgres
+
+# Hugging Face & Transformers
+huggingface-hub==0.26.5
+transformers==4.46.0
+sentence-transformers
+tokenizers==0.20.3
+
+# Database
+psycopg2-binary
+pgvector
+
+# Utilities
+pandas
+streamlit
+python-dotenv
+
+# Optional (jika diperlukan)
+beautifulsoup4
