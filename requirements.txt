@@ -21,7 +21,7 @@ pgvector
 
 # Utilities
 pandas
-streamlit
+streamlit>=1.35.0
 python-dotenv
 
 # Optional (jika diperlukan)
